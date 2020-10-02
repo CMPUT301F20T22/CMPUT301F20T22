@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMPUT301F20T22.iml" filepath="$PROJECT_DIR$/CMPUT301F20T22.iml" group="CMPUT301F20T22" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CMPUT301F20T22/app" />
+    </modules>
+  </component>
+</project>
